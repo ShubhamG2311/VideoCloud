@@ -1,4 +1,4 @@
-#YouTube Clone
+# YouTube Clone
 
 Link of Deployed Version: https://videocloud-sg.netlify.app/
 
@@ -6,7 +6,7 @@ This is a responsive React JS application that resembles YouTube, built using Re
 
 The app was built using React functional components, the Material UI (version 5) framework, and other dependencies. The file and folder structure is organized for easy readability and maintenance.
 
-##Features
+## Features
 
 - Custom categories
 - Channel pages
