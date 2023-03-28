@@ -8,13 +8,12 @@ The app was built using React functional components, the Material UI (version 5)
 
 ## Features
 
-- Custom categories
+- Video Feed and Search bar
 - Channel pages
 - Responsive design using media queries
 - Fetching data from unlimited sources using RapidAPI
 - YouTube API for playing videos
-- React Router for client-side routing
-- Accessibility features for users with disabilities
+- React Router 
 
 ## Dependencies
 
